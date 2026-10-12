@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![awesome-raspberry-pi](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![awesome-raspberry-pi](images/preview.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 
 ## Contents
 
@@ -47,36 +47,36 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Armbian - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 - balenaOS - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 - BerryBoot - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
-- chilipie-kiosk - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- chilipie-kiosk - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Channels DVR Server - Custom image for Channels DVR Server which provides a whole home DVR system.
 - DietPi - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
-- DroneBridge - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
-- EZ-WifiBroadcast - Affordable Wireless Digital HD Video Transmission made easy. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
-- Fedora - Linux Fedora distribution built for the Pi. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- DroneBridge - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- EZ-WifiBroadcast - Affordable Wireless Digital HD Video Transmission made easy. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- Fedora - Linux Fedora distribution built for the Pi. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - FreeBSD - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
-- FreedomBox - FreedomBox is a private home server for non-experts. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- FreedomBox - FreedomBox is a private home server for non-experts. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Gentoo - Gentoo Stage 3 tarball for Raspberry Pi.
-- Gladys Assistant - Gladys, a privacy-first, open-source home assistant. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
-- GlowBarn OS - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. [![Supports Raspberry Pi 4+](/media/badges/rpi-4.png)](https://www.swifttechco.com)
+- Gladys Assistant - Gladys, a privacy-first, open-source home assistant. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- GlowBarn OS - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. [![Supports Raspberry Pi 4+](/media/badges/rpi-4.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - HamPi - Formerly known as W3DJS Raspberry Pi for Ham Radio.
 - Hass.io - Home automation operating system/application for embedded device, also available standalone.
 - HypriotOS - Minimal Debian-based operating system, optimized to run Docker.
 - Kali Linux - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
-- KonstaKANG - Unofficial LineageOS and AOSP builds for Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- KonstaKANG - Unofficial LineageOS and AOSP builds for Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Lakka - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - LibreELEC - Just enough OS for Kodi
 - Mainsail OS - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
 - Manjaro - Friendly, open-source Linux distribution for Raspberry Pi.
 - Minibian - Minimal Raspbian (lighter than Jessie Lite).
-- moOde - The moOde audio player acts as an Audiophile streamer with DLNS, Spotify Connect and AirPlay support for old receivers. [![Supports Raspberry Pi 3](/media/badges/rpi-2+.png)](https://www.swifttechco.com) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
-- MoodleBox - The MoodleBox provides a Moodle learning management system on Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- moOde - The moOde audio player acts as an Audiophile streamer with DLNS, Spotify Connect and AirPlay support for old receivers. [![Supports Raspberry Pi 3](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- MoodleBox - The MoodleBox provides a Moodle learning management system on Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - motionEyeOS - Linux distribution that turns a single-board computer into a video surveillance system.
 - NetBSD - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
 - NextCloudPi - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 - NOOBS - New Out Of the Box Software, an easy OS installer for beginners.
 - OctoPi - Distribution for 3d printers.
-- OpenHABian - A preconfigured version of the OpenHAB home automation software. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
-- OpenMediaVault - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux containing services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- OpenHABian - A preconfigured version of the OpenHAB home automation software. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- OpenMediaVault - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux containing services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - openSUSE - openSUSE is a major Linux distribution that has images based for its stable release Leap and rolling release Tumbleweed. Images can be found for many of the Pis, including the Raspberry Pi 3 and Raspberry Pi 4.
 - OpenWRT - OpenWrt is described as a Linux distribution for embedded devices for network management.
 - OSMC - Open Source Media Centre, based on Kodi.
@@ -84,7 +84,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - PiFi - Turn Raspberry Pi into a High-Speed VPN Router in Seconds ⚡️ (Supports Raspberry Pi 4 and 5).
 - PiNet - System to manage Raspberry Pi classrooms.
 - PirateBox - Anonymous offline mobile file-sharing and communications system.
-- PIrateRF - Turns a Raspberry Pi Zero W into a portable, browser-controlled RF transmitter with its own WiFi hotspot, supporting a dozen modes including FM broadcast, FT8, RTTY, POCSAG, and Morse. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- PIrateRF - Turns a Raspberry Pi Zero W into a portable, browser-controlled RF transmitter with its own WiFi hotspot, supporting a dozen modes including FM broadcast, FT8, RTTY, POCSAG, and Morse. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - RasComm RaspberryPi MorseCode Translator - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 - Raspberry Pi OS - The official supported Raspberry Pi OS (previously called "Raspbian"), based on Debian and available as a lite version.
 - Raspbian - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
@@ -92,16 +92,16 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Recalbox - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
 - RetroPie - Retro-gaming on the Raspberry Pi.
 - Risc OS - Non-Linux OS originated from the group that developed the ARM microprocessor.
-- Rocket Show - Play synced backing tracks, videos and DMX light-sequences live on stage. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- Rocket Show - Play synced backing tracks, videos and DMX light-sequences live on stage. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - RuneAudio - Free and open source OS that turns embedded hardware into Hi-Fi music players.
 - SamplerBox - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
-- Twister OS - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
-- Ubuntu Core - Official (minimal) Ubuntu distribution for IoT. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Twister OS - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- Ubuntu Core - Official (minimal) Ubuntu distribution for IoT. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Ubuntu Desktop - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4 and 5.
-- Ubuntu MATE - Ubuntu distribution for the Raspberry Pi based on MATE desktop. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
-- Ubuntu Server - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Ubuntu MATE - Ubuntu distribution for the Raspberry Pi based on MATE desktop. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- Ubuntu Server - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Volumio - Headless audiophile music player, designed to play music with the highest possible fidelity.
-- Windows 10 IoT Core - Windows 10 distribution for IoT. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Windows 10 IoT Core - Windows 10 distribution for IoT. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 
 ## Tools
 
@@ -114,8 +114,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Drago - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
 - Embedible - AI that transforms your electronics ideas into working Raspberry Pi Pico projects.
 - Hardened Kernel Builder for RPi - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
-- HealthyPi - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
-- iotwifi - Wifi AP + Client management in 8MB Docker Container, with REST API for controlling wifi client and station modes simultaneously. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- HealthyPi - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- iotwifi - Wifi AP + Client management in 8MB Docker Container, with REST API for controlling wifi client and station modes simultaneously. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - ndm - Command line tool to easily manage DNS and DHCP servers.
 - Orangetool - Control functions for Single-Board computers in Python.
 - OSMC Installer - GUI based utility to download and install OSMC on to a variety of platforms.
@@ -154,15 +154,15 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - 40-node Raspberry Pi Cluster - Cluster aimed to be under the size of full tower desktop.
 - AdGuard Home - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
 - BeeMonitor - Honey beehive monitoring project.
-- Bitcoin Tracker - A Physical Dashboard that displays Bitcoin stats in real time. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- Bitcoin Tracker - A Physical Dashboard that displays Bitcoin stats in real time. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - BlackRoad OS - Self-hosted edge AI operating system running 52 TOPS of inference on Raspberry Pi 5 clusters with Hailo-8 accelerators, WireGuard mesh networking, and self-healing automation.
 - ble-scale-sync - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.
-- BotWave - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com) [![Supports Raspberry Pi 2](/media/badges/rpi-2.png)](https://www.swifttechco.com) [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- BotWave - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi 2](/media/badges/rpi-2.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Building a Ceph Cluster on Raspberry Pi - Highly redundant and low power usage RADOS home storage solution.
 - Building Timelapse with Resin - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
 - Cama-Camel Pack - A home-based irrigation system for efficient plant care using IoT.
 - Chromebook Charger Kiosk - Timed charging station for students using Chromebooks at school.
-- Ceil - Auto-provisioned RPi cluster running K8S on bare-metal. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- Ceil - Auto-provisioned RPi cluster running K8S on bare-metal. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Circle - A C++ bare metal environment for Raspberry Pi.
 - clockOS - simple smart desktop clock using a Raspberry Pi display.
 - CookCLI - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
@@ -172,16 +172,16 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - DCS-BIOS - Exports DCS World cockpit data (switches, lights, displays) over serial/UDP to Arduino, ESP32, or Raspberry Pi for physical panel builds.
 - Display_Lib_RPI - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
 - DIY Arcade Machine - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...) 
-- DIY USB Rubber Ducky - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- DIY USB Rubber Ducky - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - docsis-cable-load-monitor - Tool to monitor downstream load on DOCSIS cable networks.
 - Drumbooth controller with touch interface - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
 - FistBump BLE Edition - WPA Hash Grabbing Bluetooth Peripheral / Android App.
-- FruitNanny - Baby monitor including custom case, server, and client source code. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
-- Gaussmeter - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- FruitNanny - Baby monitor including custom case, server, and client source code. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- Gaussmeter - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Harry Potter and the real life Daily Prophet - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - Haven - Host a private blog on your Rasperry Pi instead of using Facebook.
 - HookProbe - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
-- Hearing aid prototoype - A Raspberry Pi powered prototype of a hearing aid. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- Hearing aid prototoype - A Raspberry Pi powered prototype of a hearing aid. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - idle-less - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
 - Internet Chronometer - Turn your Raspberry Pi in to an Internet Chronometer.
 - Jasper - Flexible open source personal assistant.
@@ -189,8 +189,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Kubernetes on ARM - Get your ARM device up and running Kubernetes in less than ten minutes.
 - Lomorage - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 - Looper/synth/drum thing - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
-- Lumos - Smart Lamp for Better Sleep. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
-- Magic Mirror - The original open source modular smart mirror platform. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Lumos - Smart Lamp for Better Sleep. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi) [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- Magic Mirror - The original open source modular smart mirror platform. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Mini OONTZ - 3D printed mini MIDI controller.
 - Movel - Raspberry Pi car computer.
 - Multi-Datacenter Cassandra on 32 Raspberry Pi’s - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
@@ -200,7 +200,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Network Presence Detector - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - NTP driven Nixie Clock - Nixie Tube Clock powered by a Raspberry Pi.
 - Occu-Pi - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
-- P4wnP1 - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- P4wnP1 - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Pi Image Capturer - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
 - pi_payments - Payment module based on RFID.
 - Pi-hole - Black hole for internet ads.
@@ -209,14 +209,14 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Pi4j Project - Java I/O library the Raspberry Pi.
 - PiAware - Live flight tracking using a Raspberry Pi.
 - PiClock - Fancy Clock built around a monitor and a Raspberry Pi.
-- PiE-Ink - E-ink nametag display running on a Pi Zero. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
-- PiFanTuner - CPU-fan-tuner daemon, just enables your fan as necessary. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- PiE-Ink - E-ink nametag display running on a Pi Zero. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- PiFanTuner - CPU-fan-tuner daemon, just enables your fan as necessary. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - PiFmRds - FM-RDS transmitter using a Raspberry Pi.
 - PiScan - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
-- PiSpot-Show - WiFi voucher display system with weather integration and PiJuice battery management. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
-- PiSpot Watch - Wrist-wearable Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand via button press. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- PiSpot-Show - WiFi voucher display system with weather integration and PiJuice battery management. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
+- PiSpot Watch - Wrist-wearable Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand via button press. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Planning lunch with a Slackbot on resin.io - Node.js Slackbot (lunchbot), hosted on Resin.
-- PoisonTap - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- PoisonTap - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Power Sniffing Strip - Enclosure in a power strip, sniffing network data.
 - Project MyHouse - Smart Doll House with Gesture Recognition, using Raspberry Pi 3 or Pi Zero and PSMove motion controller.
 - Raspberry Pi Dashboard - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
@@ -234,11 +234,11 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - RPi-eth-display - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - RPi Motor Library - Python 3 library to connect various motors & servos to the Pi.
 - RPI tempmon - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
-- Secluso - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Secluso - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - SecPi - Raspberry Pi based home alarm system.
 - Skate-o-Meter - Skateboard odometer and speedometer with RFID user system.
 - SkyJack - Take over and allow full control over any Parrot AR Drone within wireless distance.
-- Smart Mirror - Voice controlled smart mirror with IoT integration. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://www.swifttechco.com)
+- Smart Mirror - Voice controlled smart mirror with IoT integration. [![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Smart Security Camera - Using OpenCV, Twilio and a WebCam/picam.
 - Sonic Pi - The Live Coding Music Synth for Everyone.
 - Sonus - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
@@ -246,7 +246,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Stratux - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - StreamPi - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 - TelePi - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
-- TeslaCam - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- TeslaCam - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Ultimate DNS Shield - Self-hosted recursive DNS server using Pi-hole, Unbound and Docker on Raspberry Pi 4.
 - USB Proxy - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 - Vinyl Shelf Finder - Uses a tilt & pan laser to find a record in a record collection.
@@ -287,11 +287,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Raspberry Pi Beginners - Guide to setup the Raspberry Pi for beginners.
 - The Ultimate Raspberry Pi Security Guide - Extensive guide on security best practices for the Pi ie. exposed to the internet.
 
-
 ### Books
 
 - Control Your Home with Raspberry Pi - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
-- Essentials - AIY Voice Projects - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- Essentials - AIY Voice Projects - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Essentials - Code Music with Sonic Pi - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
 - Essentials - Conquer the Command Line (Version 2) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
 - Essentials - GPIO Zero Electronics - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
@@ -301,10 +300,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Essentials - Making with Minecraft - Learn how to interact with a special Raspberry Pi version of minecraft using APIs, the GPIO pins, your programs, and so much more.
 - Essentials - Sense HAT Experiments - A useful book of experiments to use with the Sense HAT and how use it to it's full potential.
 - Getting Started with Java on the Raspberry Pi - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
-- Getting Started with Raspberry Pi - Learn how to get started with your **Raspberry Pi 3A+**. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- Getting Started with Raspberry Pi - Learn how to get started with your **Raspberry Pi 3A+**. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Raspberry Pi Annual 2018 - An educational book aimed to kids of all ages for an introduction to the Raspberry Pi.
 - Raspberry Pi Beginner's Book 1 - The official Raspberry Pi beginner book covering how to get started with your Raspberry Pi and starting to utilize different software and hardware projects.
-- Raspberry Pi Beginner's Guide - Learn how to get started with your **Raspberry Pi 3B+**. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://www.swifttechco.com)
+- Raspberry Pi Beginner's Guide - Learn how to get started with your **Raspberry Pi 3B+**. [![Supports Raspberry Pi 3](/media/badges/rpi-3.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - Raspberry Pi Beginner's Guide v2 - Learn how to get started with your **Raspberry Pi 4**.
 - Raspberry Pi Beginner's Guide v3 - Learn how to get started with your **Raspberry Pi 4**.
 - Raspberry Pi Beginner's Guide v4 - Learn how to get started with your **Raspberry Pi 4 and Raspberry Pi 400**.
@@ -335,7 +334,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - Raspberry Pi Media Server Guides - Media Server and NAS tutorials from HTPC Guides.
 - RasRobot 4WD TB6612FNG checklist - Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.
 - Turn a Raspberry Pi into a Plex Media Server - Beginners guide to setting up a Plex media server to stream all of your media content.
-- Turn the Raspberry Pi Zero into a mini dongle computer - Setup a pi0 to be able to ssh & vnc over USB. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://www.swifttechco.com)
+- Turn the Raspberry Pi Zero into a mini dongle computer - Setup a pi0 to be able to ssh & vnc over USB. [![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 - TutorialSearch - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - Use a Raspberry Pi with multiple WiFi networks - Tutorial on using a Raspberry Pi with multiple networks.
 - Use a Raspberry Pi with Netflix - Tutorial on watching Netflix on a Raspberry Pi.
@@ -370,7 +369,7 @@ Contribution guidelines can be found here
 
 ### License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://www.swifttechco.com)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/Swift-Tech-Co/awesome-raspberry-pi)
 
 ---
 
@@ -386,13 +385,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/awesome-raspberry-pi
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
